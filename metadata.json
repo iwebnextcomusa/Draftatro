@@ -1,0 +1,6 @@
+{
+  "name": "Draftatron",
+  "description": "Premium 3D animated website and business catalog for Draftatron website, featuring professional drafting and 3D visual design services based in Waukesha, Wisconsin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
